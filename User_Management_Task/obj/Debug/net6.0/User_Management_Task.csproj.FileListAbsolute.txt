@@ -1,0 +1,14 @@
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\User_Management_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\User_Management_Task.AssemblyInfoInputs.cache
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\User_Management_Task.AssemblyInfo.cs
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\User_Management_Task.csproj.CoreCompileInputs.cache
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\bin\Debug\net6.0\User_Management_Task.exe
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\bin\Debug\net6.0\User_Management_Task.deps.json
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\bin\Debug\net6.0\User_Management_Task.runtimeconfig.json
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\bin\Debug\net6.0\User_Management_Task.dll
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\bin\Debug\net6.0\User_Management_Task.pdb
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\User_Management_Task.dll
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\refint\User_Management_Task.dll
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\User_Management_Task.pdb
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\User_Management_Task.genruntimeconfig.cache
+D:\Route\2- Back-End\Tasks\User_Management_Task\User_Management_Task\obj\Debug\net6.0\ref\User_Management_Task.dll

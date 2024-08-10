@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|d:\\route\\2- back-end\\tasks\\user_management_task\\user_management_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|solutionrelative:user_management_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|d:\\route\\2- back-end\\tasks\\user_management_task\\user_management_task\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|solutionrelative:user_management_task\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|d:\\route\\2- back-end\\tasks\\user_management_task\\user_management_task\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|solutionrelative:user_management_task\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|d:\\route\\2- back-end\\tasks\\user_management_task\\user_management_task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2CE554-35F7-4D0D-B1D3-33857028C23C}|User_Management_Task\\User_Management_Task.csproj|solutionrelative:user_management_task\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\UserManager.cs",
+              "RelativeDocumentMoniker": "User_Management_Task\\UserManager.cs",
+              "ToolTip": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\UserManager.cs",
+              "RelativeToolTip": "User_Management_Task\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:57:59.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\User.cs",
+              "RelativeDocumentMoniker": "User_Management_Task\\User.cs",
+              "ToolTip": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\User.cs",
+              "RelativeToolTip": "User_Management_Task\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:57:56.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\InputValidation.cs",
+              "RelativeDocumentMoniker": "User_Management_Task\\InputValidation.cs",
+              "ToolTip": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\InputValidation.cs",
+              "RelativeToolTip": "User_Management_Task\\InputValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:57:51.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\Program.cs",
+              "RelativeDocumentMoniker": "User_Management_Task\\Program.cs",
+              "ToolTip": "D:\\Route\\2- Back-End\\Tasks\\User_Management_Task\\User_Management_Task\\Program.cs",
+              "RelativeToolTip": "User_Management_Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:56:56.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
